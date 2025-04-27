@@ -1,4 +1,4 @@
-# Hi, I'm Kwame Lucheveli 👋
+# Hi there, I'm Kwame Lucheveli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 🎓 Software Engineering Student at USIU - Africa.  
 💻 Passionate about Web Development, AI, and Clean Code.  

@@ -5,7 +5,7 @@
 🚀 Currently building a portfolio website!
 
 ## 🛠 Skills
-- Languages: Python, Java, C
+- Languages: Python, Shell, C
 - Frameworks: Flask
 - Tools: Git, VS Code, Linux
 

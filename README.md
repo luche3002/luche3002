@@ -1,20 +1,27 @@
-<h1>Hi, I'm Kwame! <br/><a href="https://github.com/joshmadakor1">Software Developer</a>
+# Hi, I'm Kwame Lucheveli 👋
 
-<h2>👨‍💻 Software Development Projects:</h2>
+🎓 Software Engineering Student at USIU - Africa.  
+💻 Passionate about Web Development, AI, and Clean Code.  
+🚀 Currently building a portfolio website!
+
+## 🛠 Skills
+- Languages: Python, Java, C
+- Frameworks: Flask
+- Tools: Git, VS Code, Linux
+
+## 📫 How to Reach Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amukhobukwame@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwame-amukhobu-13837620a)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luche3002)
 
 
+## 📈 GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=luche3002&show_icons=true&theme=radical)](https://github.com/luche3002)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luche3002&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luche3002&layout=compact&theme=radical)](https://github.com/luche3002)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
